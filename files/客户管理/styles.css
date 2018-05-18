@@ -1954,3 +1954,67 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u4008_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:63px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 1);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFFFF;
+}
+#u4008 {
+  position:absolute;
+  left:287px;
+  top:127px;
+  width:63px;
+  height:30px;
+  color:#FFFFFF;
+}
+#u4008_div.mouseOver {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:63px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 0.8);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFFFF;
+}
+#u4008.mouseOver {
+}
+#u4008_div.mouseDown {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:63px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 0.8);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFFFF;
+}
+#u4008.mouseDown {
+}
+#u4009 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:59px;
+  word-wrap:break-word;
+}
