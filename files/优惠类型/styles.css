@@ -1057,3 +1057,23 @@
   width:59px;
   word-wrap:break-word;
 }
+#u6270 {
+  position:absolute;
+  left:72px;
+  top:273px;
+  width:20px;
+  height:16px;
+}
+#u6271 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:2px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6270_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
