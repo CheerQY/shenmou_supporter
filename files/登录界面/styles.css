@@ -1,0 +1,28 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:730px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u134 {
+  position:absolute;
+  left:156px;
+  top:60px;
+  width:570px;
+  height:426px;
+}
+#u134_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:570px;
+  height:426px;
+}
